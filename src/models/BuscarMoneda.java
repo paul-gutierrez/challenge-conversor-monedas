@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class BuscarMoneda {
 
-    private String apiKey = "caeb51911933e89c31e77c8f";
+    private String apiKey = "YOUR-API-KEY";
 
     // Metodo que obtiene las tasas de conversion y nombres de monedas
     public Map<String, Double> obtenerConversiones(String monedaBase) {
