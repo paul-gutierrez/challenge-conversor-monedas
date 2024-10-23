@@ -10,6 +10,10 @@ This is a desktop application built in Java that allows you to convert between d
 - The currencies in the dropdown menus are listed alphabetically.
 - The dropdown menus support autocomplete while typing.
 
+## Demo Video
+
+Check out this [YouTube video](https://youtu.be/zNXrnIPtuZU) demonstrating how the Currency Converter application works.
+
 ## Requirements
 
 To run this program, you'll need:
